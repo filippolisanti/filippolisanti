@@ -19,7 +19,7 @@ I am currently studying an MSc in Business Analytics and Big Data at IE Business
 
 ## 📚 Education
 
-- **MSc in Business Analytics & Big Data**, IE Business School
+- **MSc in Business Analytics and Big Data**, IE School of Science and Technology
 - **Postbaccalaureate in Data and Computer Science**, Columbia University
 - **BSc in International Economics and Management**, Bocconi University
 
