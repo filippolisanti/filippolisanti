@@ -9,10 +9,7 @@ I am currently studying an MSc in Business Analytics and Big Data at IE Business
 
 ## 🌐 Linkedin
 
-[![LinkedIn][1.1]][1]
-
-[1.1]: https://i.imgur.com/wWzX9uB.png (linkedin icon without padding)
-[1]: https://www.linkedin.com/in/filippo-lisanti-b992b1200/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/filippo-lisanti-b992b1200/)
 
 ## 📊 Projects
 
