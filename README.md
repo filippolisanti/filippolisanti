@@ -41,5 +41,3 @@ I am currently studying an MSc in Business Analytics and Big Data at IE Business
 
 ![Filippo's GitHub stats](https://github-readme-stats.vercel.app/api?username=filippolisanti&show_icons=true&theme=radical)
 
----
-⭐️ From [filippolisanti](https://github.com/filippolisanti)
