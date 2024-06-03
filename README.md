@@ -5,7 +5,7 @@
 </div>
 
 
-I am currently studying an MSc in Business Analytics and Big Data at IE Business School. I completed my Postbaccalaureate in Data and Computer Science at Columbia University and my BSc in International Economics and Management at Bocconi University. Below you'll find some of my academic projects and professional experiences.
+I am currently studying an MSc in Business Analytics and Big Data at IE Business School. I completed my Postbaccalaureate in Data and Computer Science at Columbia University and my BSc in International Economics and Management at Bocconi University. Below you'll find some of my projects.
 
 ## 🌐 Linkedin
 
