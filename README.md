@@ -16,7 +16,7 @@ I am currently studying an MSc in Business Analytics and Big Data at IE Business
 
 ## 📊 Projects
 
-- **Comparing CO2 Emissions between China and OECD Countries** - Statistical analysis using Jupyter Notebooks. View the project [here](https://github.com/filippolisanti/Comparing-CO2-emissions-between-China-and-OECD-countries).
+- **Comparing CO2 Emissions between China and OECD Countries** - Statistical analysis using Python. View the project [here](https://github.com/filippolisanti/Comparing-CO2-emissions-between-China-and-OECD-countries).
 - **Statistical Analysis of British Workforce Using Machine Learning** - Comprehensive machine learning application in Jupyter Notebooks. View the project [here](https://github.com/yourusername/british-workforce-analysis).
 - **Option Pricing Using Monte Carlo Simulation** - Financial modeling with Python. View the project [here](https://github.com/filippolisanti/Option-Pricing-Using-Monte-Carlo-Simulation).
 - **Exploring the Impact of Demographics on Voter Behavior** - Detailed statistical analysis in STATA. View the project [here](https://github.com/filippolisanti/Statistical-Analysis-of-British-Workforce-Using-Machine-Learning).
