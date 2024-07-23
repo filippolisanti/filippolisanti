@@ -32,12 +32,11 @@ I am currently studying an MSc in Business Analytics and Big Data at IE's School
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Stata](https://img.shields.io/badge/Stata-%2314354C.svg?style=for-the-badge&logo=stata&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Hadoop](https://img.shields.io/badge/Hadoop-%2366CCFF.svg?style=for-the-badge&logo=apachehadoop&logoColor=white)
+![Spark](https://img.shields.io/badge/Spark-%23E25A1C.svg?style=for-the-badge&logo=apachespark&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)
 
 ## 📝 Publications
 
 - **The Role of Geopolitics in European Renewable Energy Markets** [here](http://dx.doi.org/10.13140/RG.2.2.15080.44806).
-
-## 📈 GitHub Stats
-
-![Filippo's GitHub stats](https://github-readme-stats.vercel.app/api?username=filippolisanti&show_icons=true&theme=radical)
-
