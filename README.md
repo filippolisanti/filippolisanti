@@ -14,7 +14,7 @@ I am currently studying an MSc in Business Analytics and Big Data at IE's School
 ## 📊 Projects
 
 - **Comparing CO2 Emissions between China and OECD Countries** - Statistical analysis using Python. View the project [here](https://github.com/filippolisanti/Comparing-CO2-emissions-between-China-and-OECD-countries).
-- **Statistical Analysis of British Workforce Using Machine Learning** - Comprehensive machine learning application in Python. View the project [here](https://github.com/filippolisanti/Exploring-the-Impact-of-Demographics-on-Voter-Behavior-STATA-).
+- **Statistical Analysis of British Workforce Using Machine Learning** - Comprehensive machine learning application in Python. View the project [here](https://github.com/filippolisanti/Statistical-Analysis-of-British-Workforce-Using-Machine-Learning).
 - **Option Pricing Using Monte Carlo Simulation** - Financial modeling with Python. View the project [here](https://github.com/filippolisanti/Option-Pricing-Using-Monte-Carlo-Simulation).
 - **Exploring the Impact of Demographics on Voter Behavior** - Detailed statistical analysis in STATA. View the project [here](https://github.com/filippolisanti/Statistical-Analysis-of-British-Workforce-Using-Machine-Learning).
 - **Python Simulation of Investment Returns Using Historical S&P 500 Data** - Investment strategy simulation during my internship at C-Quadrat. View the project [here](https://github.com/filippolisanti/Python-Simulation-of-Investment-Returns-Using-Historical-S-P-500-Data).
